@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * 4-isalpha.c - checks for Alphabets
- * @c: function parameter
- * Return: 1 and 0
+ *4-isalpha.c - checks for Alphabets
+ *@c: function parameter
+ *Return: 1 and 0
  */
 
 int _isalpha(int c)
